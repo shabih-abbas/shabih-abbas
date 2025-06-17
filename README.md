@@ -8,7 +8,7 @@ Here are some of my nouvelles:
 - 👯 I’m looking to collaborate on social causes
 - 🤔 I’m looking for help with making an impact
 - 💬 Ask me about cricket, chess
-- 📫 How to reach me: [...](https://www.linkedin.com/in/shabih-abbas-826b35232/)
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/shabih-abbas-826b35232/)
 - 😄 Pronouns: He/him
 
 -->
