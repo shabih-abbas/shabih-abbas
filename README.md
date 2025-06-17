@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently doing BS Computer Science from Virtual University of Pakistan. I am interested in theoratical concepts such as algorithm design and I loving solving problems.
+I am currently doing BS Computer Science from Virtual University of Pakistan. I am interested in theoratical concepts such as algorithm design and I love solving problems.
 Here are some of my nouvelles:
 
 - 🔭 I’m currently working on data-structures-algorithms
